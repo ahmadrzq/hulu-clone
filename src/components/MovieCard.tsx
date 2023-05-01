@@ -1,5 +1,3 @@
-import React from 'react'
-
 function MovieCard(movie: any) {
     return (
         <div className='inline-block m-2 md:m-3 cursor-pointer group'>
